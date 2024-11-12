@@ -30,8 +30,11 @@ To run this project locally, follow these steps:
 
 Open the project in Visual Studio or your preferred code editor.
 Run the application with the following command:
+
+
  - dotnet run
 Navigate to https://localhost:5001 (or the URL specified in the console) to see the app in action.
+
 
 ### How It Works
 
